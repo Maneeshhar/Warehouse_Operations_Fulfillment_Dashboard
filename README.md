@@ -26,7 +26,7 @@ An interactive Power BI dashboard analyzing warehouse operations, order fulfillm
 ## 🖼️ Screenshots
 
 ### Overview
-![Overview](screenshots_of_pj1/Overview.png)
+![Overview](screenshots of pj1/Screenshot 2026-07-07 142403.png)
 
 ### Root Cause Analysis
 ![Root Cause Analysis](screenshots_of_pj1/Root_Cause_Analysis.png)
