@@ -18,6 +18,12 @@ An interactive Power BI dashboard analyzing warehouse operations, order fulfillm
 4. **Fulfillment trend is flat:** From 2021-2024, on-time fulfillment rate hovered consistently around 60-61%, showing no major improvement over time despite likely process changes.
 5. **Delay rate spikes seasonally:** Monthly delay rate data shows sharp spikes (e.g., a peak of 0.416 in one month), suggesting seasonal or demand-driven strain on warehouse operations.
 
+## 💡 Business Impact & Recommendations
+
+* Since equipment and congestion don't meaningfully affect on-time rates, further investment in equipment or congestion-reduction alone is unlikely to move the needle — the bottleneck likely sits upstream (e.g. order processing speed or staffing levels)
+* The seasonal delay spikes suggest a demand-supply mismatch; a monthly demand forecasting model could help pre-position inventory and staffing ahead of peak periods
+* Recommend further investigation into order-to-ship cycle time and staffing patterns during high-delay months to identify the true root cause
+
 ## 📁 Dashboard Pages
 1. **Overview** — KPI summary cards (total orders, % fulfilled on time, equipment availability, avg loading time) and fulfillment rate trend (2021-2024).
 2. **Root Cause Analysis** — Fulfillment rate with vs. without equipment, and % fulfilled on time by congestion category.
