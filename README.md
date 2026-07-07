@@ -32,7 +32,7 @@ An interactive Power BI dashboard analyzing warehouse operations, order fulfillm
 [Root Cause Analysis] (<img width="1920" height="1080" alt="Screenshot 2026-07-07 142407" src="https://github.com/user-attachments/assets/04bed5fa-11ba-42bf-92ae-4dc0e596ef70" />)
 
 ### Equipment & Trend Analysis
-[Equipment & Trend Analysis](<img width="1920" height="1080" alt="Screenshot 2026-07-07 142412" src="https://github.com/user-attachments/assets/c9a3395c-e5a0-471d-8a45-710aa548bdae" />)
+<img width="1920" height="1080" alt="Screenshot 2026-07-07 142412" src="https://github.com/user-attachments/assets/7a049af9-9524-40d4-a244-fda54280afb7" />
 
 ## 📬 Contact
 Built by Maneesh as part of a Power BI portfolio project for data analyst roles.
