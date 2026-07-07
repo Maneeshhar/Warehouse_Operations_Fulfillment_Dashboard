@@ -26,13 +26,14 @@ An interactive Power BI dashboard analyzing warehouse operations, order fulfillm
 ## 🖼️ Screenshots
 
 ### Overview
-![Overview](screenshots%20of%20pj1/Overview.png)
+[Overview] (<img width="1920" height="1080" alt="Screenshot 2026-07-07 142403" src="https://github.com/user-attachments/assets/3c35271a-ad96-4117-9f8f-2a1635d82607" />)
 
 ### Root Cause Analysis
-![Root Cause Analysis](screenshots%20of%20pj1/Root_Cause_Analysis.png)
+[Root Cause Analysis] (<img width="1920" height="1080" alt="Screenshot 2026-07-07 142407" src="https://github.com/user-attachments/assets/04bed5fa-11ba-42bf-92ae-4dc0e596ef70" />)
 
 ### Equipment & Trend Analysis
-![Equipment & Trend Analysis](screenshots%20of%20pj1/Equipment_Trend_Analysis.png)
+![Equipment & Trend Analysis](<img width="1920" height="1080" alt="Screenshot 2026-07-07 142412" src="https://github.com/user-attachments/assets/a82cfabb-cdd3-4594-a622-02c38bf888b9" />)
+
 
 ## 📬 Contact
 Built by Maneesh as part of a Power BI portfolio project for data analyst roles.
